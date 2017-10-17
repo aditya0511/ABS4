@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "1095759451230",
+    "firebase_url": "https://abs-app-5efe0.firebaseio.com",
+    "project_id": "abs-app-5efe0",
+    "storage_bucket": "abs-app-5efe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095759451230:android:513b82a889fb2ee6",
+        "android_client_info": {
+          "package_name": "com.idk.aditya.abs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095759451230-3afakft78ekt93v3k0r313vmm7dhmnfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idk.aditya.abs",
+            "certificate_hash": "d54782b4f9f0b263d832fd10b078ad0a776ebd9b"
+          }
+        },
+        {
+          "client_id": "1095759451230-v03pe462qqkloh2nqnn7ucrgq2hfvbab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyaTlyyYhHLn2vwnXlS5fOeozsJkTexI"
+        },
+        {
+          "current_key": "AIzaSyB_Yz6arjU_AUNAvbd25hL1Naz-pHWiCaE"
+        },
+        {
+          "current_key": "AIzaSyD-k1KaYCWzvvCXXEXgLNxbw0qqtcTOzq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095759451230-v03pe462qqkloh2nqnn7ucrgq2hfvbab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

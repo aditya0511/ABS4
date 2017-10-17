@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ABS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home_workout">ABS helps you find all the gyms near you and lets you decide the best workout routines and diet best suited for your body depending on your body height and weight and the body structure you desire.</string>
+    <string name="body_mass_ratio">Body Mass Ratio Calculator</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="height">height</string>
+    <string name="calculate">calculate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mainworkout">Mainworkout</string>
+    <string name="title_activity_mainbmi">Mainbmi</string>
+</resources>

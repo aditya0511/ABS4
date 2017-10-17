@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_nearme"
+            android:icon="@drawable/ic_network"
+            android:title="Gyms near me" />
+        <item
+            android:id="@+id/nav_bmi_calc"
+            android:icon="@drawable/calculator"
+            android:title="BMI calculater" />
+        <item
+            android:id="@+id/nav_workouts_diets"
+            android:icon="@drawable/ic_sports"
+            android:title="workout and diet plans" />
+
+    </group>
+
+
+
+</menu>
