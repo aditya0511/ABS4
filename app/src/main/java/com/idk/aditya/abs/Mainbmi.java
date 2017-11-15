@@ -1,8 +1,6 @@
 package com.idk.aditya.abs;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
@@ -16,12 +14,12 @@ public class Mainbmi extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mainbmi);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        final EditText e1 = (EditText) findViewById(R.id.et1);
-        final EditText e2 = (EditText) findViewById(R.id.et2);
-        final TextView tv4 = (TextView) findViewById(R.id.tv4);
+        final EditText e1 = findViewById(R.id.et1);
+        final EditText e2 =  findViewById(R.id.et2);
+        final TextView tv4 = findViewById(R.id.tv4);
 
         findViewById(R.id.ib1).setOnClickListener(new View.OnClickListener() {
 
@@ -60,7 +58,7 @@ public class Mainbmi extends AppCompatActivity {
     }
 
     private float calculateBMI (float weight, float height) {
-        return (float) (weight / (height * height));
+        return (weight / (height * height));
     }
 
     // Interpret what BMI means

@@ -14,4 +14,5 @@
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_mainworkout">Mainworkout</string>
     <string name="title_activity_mainbmi">Mainbmi</string>
+    <string name="title_activity_fire">Fire</string>
 </resources>
